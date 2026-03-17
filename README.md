@@ -1,2 +1,2 @@
-# pawpal--privacy
-Privacy Policy for PawPal App
+# petpal-privacy
+Privacy Policy for PetPal App
